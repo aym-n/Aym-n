@@ -27,3 +27,5 @@ You can reach out to me via email at aymn_2022bcse004@nitsri.ac.in.
 
 Explore more of my projects and interests on my personal website: [aymn.me](https://aymn.me)
 
+[![](https://visitcount.itsvg.in/api?id=aym-n&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
