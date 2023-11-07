@@ -5,9 +5,9 @@ I'm a Computer Science and Engineering undergraduate student at the National Ins
 ## Technologies and Tools
 
 - HTML, CSS, JavaScript
-- PHP, MySQL
+- PHP, MySQL , Flask
 - Python, NumPy, Pandas, SciKit-Learn, Matplotlib
-- C
+- C , Rust
 
 ## Projects
 
